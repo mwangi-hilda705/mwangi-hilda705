@@ -1,4 +1,4 @@
-## my learning goals
+ ## my learning goals
 
 ### this semester
 
@@ -20,9 +20,9 @@
       
       ## steps to make a commit in Git
       
-      -edit or create a file
-      -write a message and commit the changes
-      -push the commit to the repository
+      -Edit or create a file
+      -Write a message and commit the changes
+      -Push the commit to the repository
       
        ## tools i want to learn
       
